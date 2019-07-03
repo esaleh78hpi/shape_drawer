@@ -1,0 +1,21 @@
+{  
+  "shapes": [
+    {
+      "type": "circle",
+      "color": "Black",
+      "borderSize": 5,      
+      "params": {
+        "radius": "10.0"
+      }
+    },
+    {
+      "type": "square",          
+      "color": "Red",
+      "borderSize": 4,      
+      "params": {
+        "width": "10",
+        "height": "10"
+      }
+    }
+  ]
+}

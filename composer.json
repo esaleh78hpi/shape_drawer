@@ -1,0 +1,23 @@
+{
+  "name": "UrbanSportsClub/ShapeDrawer",
+  "description": "Draw shapes",  
+  "type": "library",
+  "homepage": "http://github.com/esaleh78/drawer-test",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eyad Saleh",
+      "email": "esaleh7@gmail.com",
+      "homepage": "https://www.github.com/esaleh78"
+    }
+  ],
+  "require": {
+    "php": ">=5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    },
+    "classmap": ["src"]
+  }
+}
